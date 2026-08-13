@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 I'm currently pursuing my **Master of Computer Applications (MCA)**
+- 🎓 I'm completed **Master of Computer Applications (MCA)**
 - 💻 I specialize in **React**, **React Native**, and **Node.js**
 - 🌱 Continuously learning and exploring new technologies
 - 🔒 Most of my projects are **private**, but feel free to reach out if you're curious about my work!
